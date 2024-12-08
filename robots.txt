@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nomor-whatsapp-bank-woori-saudara.vercel.app/sitemap.xml
